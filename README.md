@@ -2,9 +2,11 @@
 
 A Windows Forms application for sending keystrokes to target windows when direct pasting is not available or reliable.
 
-## Screenshot
+## Program Environment
 
-![KeySender Application](screenshot.png)
+<div align="center">
+  <img src="screenshot.png" alt="KeySender Application Interface" />
+</div>
 
 ## Overview
 

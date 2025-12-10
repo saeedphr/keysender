@@ -1,4 +1,4 @@
-"# KeySender
+# KeySender
 
 A Windows Forms application for sending keystrokes to target windows when direct pasting is not available or reliable.
 

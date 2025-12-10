@@ -2,6 +2,10 @@
 
 A Windows Forms application for sending keystrokes to target windows when direct pasting is not available or reliable.
 
+## Screenshot
+
+![KeySender Application](screenshot.png)
+
 ## Overview
 
 KeySender is a utility tool designed to simulate keyboard input character by character to any application window. This is particularly useful in scenarios where the standard copy-paste functionality doesn't work, such as:

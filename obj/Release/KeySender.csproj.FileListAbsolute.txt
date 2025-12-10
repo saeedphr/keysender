@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\KeySender\bin\Release\KeySender.exe.config
+C:\Users\Administrator\Desktop\KeySender\bin\Release\KeySender.exe.manifest
+C:\Users\Administrator\Desktop\KeySender\bin\Release\KeySender.application
+C:\Users\Administrator\Desktop\KeySender\bin\Release\KeySender.exe
+C:\Users\Administrator\Desktop\KeySender\bin\Release\KeySender.pdb
+C:\Users\Administrator\Desktop\KeySender\obj\Release\KeySender.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\KeySender\obj\Release\KeySender.Main.resources
+C:\Users\Administrator\Desktop\KeySender\obj\Release\KeySender.Properties.Resources.resources
+C:\Users\Administrator\Desktop\KeySender\obj\Release\KeySender.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\KeySender\obj\Release\KeySender.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\KeySender\obj\Release\KeySender.exe.manifest
+C:\Users\Administrator\Desktop\KeySender\obj\Release\KeySender.application
+C:\Users\Administrator\Desktop\KeySender\obj\Release\KeySender.exe
+C:\Users\Administrator\Desktop\KeySender\obj\Release\KeySender.pdb

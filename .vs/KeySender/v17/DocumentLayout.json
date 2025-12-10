@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\KeySender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{306F8A90-84F8-4C84-B617-D8511F579A07}|KeySender.csproj|c:\\users\\administrator\\desktop\\keysender\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{306F8A90-84F8-4C84-B617-D8511F579A07}|KeySender.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306F8A90-84F8-4C84-B617-D8511F579A07}|KeySender.csproj|c:\\users\\administrator\\desktop\\keysender\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306F8A90-84F8-4C84-B617-D8511F579A07}|KeySender.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\KeySender\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\KeySender\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:20:15.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\KeySender\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\KeySender\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAACQCAAAAAAAAAAAUwDcCAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:20:06.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

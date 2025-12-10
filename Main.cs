@@ -14,7 +14,7 @@ using System.Windows.Forms;
 #nullable disable
 namespace KeySender;
 
-public class Main : Form
+public partial class Main : Form
 {
     public Decimal DelaySwitchApplication;
     public List<string> excludes = new List<string>()
